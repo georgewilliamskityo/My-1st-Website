@@ -1,0 +1,33 @@
+body{
+  margin: 0px;
+
+}
+
+.Powder-Blue{
+  background-color: powderblue;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+
+}
+
+.Green{
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+  top: 200px
+  left: 200px
+
+}
+
+.purple{
+  background-color: purple;
+  height: 200px;
+  width: 200px;
+  display: block;
+  position: absolute;
+
+}
